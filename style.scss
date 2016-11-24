@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: ("http://zellox.com/wp-content/uploads/2016/04/website-background-images-%E2%80%AB309218139%E2%80%AC-%E2%80%AB%E2%80%AC.jpg");
+	background: #cc0000; 
   font: 18px/1.4 $helvetica;
   color: #FF0000;
 }
@@ -156,7 +156,9 @@ img {
 }
 
 .masthead {
-  padding: 20px 0;
+  padding: 1em;
+  background:#cc0000 url("../img/nebula.jpg") no-repeat center center;
+	background-size: cover;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
