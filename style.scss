@@ -19,7 +19,7 @@ html {
 
 body {
 	background: #4ddbff; 
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $erif;
   color: #FF0000;
 }
 
@@ -118,7 +118,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $black;
 }
 
 // Specify the color of the selection
@@ -157,7 +157,7 @@ img {
 
 .masthead {
   padding: 1em;
-  background:#cc0000 url("../img/nebula.jpg") no-repeat center center;
+  background:#00a3cc url("../img/nebula.jpg") no-repeat center center;
 	background-size: cover;
   border-bottom: 1px solid $lightGray;
 
@@ -167,7 +167,7 @@ img {
 }
 
 .site-avatar {
-  float: left;
+  float: right;
   width: 70px;
   height: 70px;
   margin-right: 15px;
@@ -200,7 +200,7 @@ img {
   font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
-  letter-spacing: 1px;
+  letter-spacing: 3px;
 }
 
 .site-description {
