@@ -48,7 +48,7 @@ When concentrating i have learnt that your ears tend to follow your eyes (unless
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>The thing that limited my learning was basically me being too shy. This results in me not putting my hand up when i don't fully understand something however my brain just won't let me do it. I'm not sure why it happens as i have known everyone in my class for a minimum of two years and the others i have known for 3. Although my focusing tactic i did remember one part of last lesson where i did not understand however my brain wouldn't let me put my hand up!, more than anything this shyness is flat out annoying, because it means that i have to research what i didn't understand in the lesson for homework which just wastes my time.</td>
+    <td>The thing that limited my learning was basically me being too shy. This results in me not putting my hand up when i don't fully understand something however my brain just won't let me do it. I'm not sure why it happens as i have known everyone in my class for a minimum of two years and the others i have known for 3. Although my focusing tactic i did remember one part of last lesson where i did not understand however my brain wouldn't let me put my hand up! More than anything this shyness is flat out annoying, because it means that i have to research what i didn't understand in the lesson for homework which just wastes my time.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
